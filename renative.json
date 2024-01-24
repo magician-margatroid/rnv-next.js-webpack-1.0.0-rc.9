@@ -1,6 +1,6 @@
 {
-    "platforms": {},
     "$schema": "../../.rnv/schema/rnv.template.json",
+    "platforms": {},
     "plugins": {},
     "extendsTemplate": "@rnv/template-starter/renative.json",
     "projectName": "rnv-next.js-webpack-1.0.0-rc.9",
@@ -22,6 +22,5 @@
         }
     },
     "currentTemplate": "@rnv/template-starter",
-    "isNew": true,
     "isMonorepo": false
 }
