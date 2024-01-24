@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@rnv/template-starter": "1.0.0-rc.9",
+    "rnv": "1.0.0-rc.9"
+  }
+}
